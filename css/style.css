@@ -1,3 +1,15 @@
 p {
 	font-weight: bold;
 }
+
+.header-homepage {
+	background-color: lightblue;
+}
+
+.main-homepage {
+	background-color: floralwhite;
+}
+
+.footer-homepage {
+	background-color: lightcyan;
+}
